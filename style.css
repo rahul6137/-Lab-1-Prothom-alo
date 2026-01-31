@@ -393,6 +393,24 @@
             font-size: 11px;
             margin-bottom: 8px;
         }
+        .ad-banner video,
+        .ad-banner iframe {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-radius: 5px;
+        }
+        .ad-space video,
+.ad-space iframe {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.ad-space {
+    overflow: hidden;
+}
 
         @media (max-width: 968px) {
             .content-grid {
