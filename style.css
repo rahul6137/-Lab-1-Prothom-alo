@@ -142,9 +142,6 @@
             list-style: none;
             text-decoration: none;
         }
-a{
-            text-decoration: none;
-}
         .nav-links li {
             padding: 15px 20px;
             cursor: pointer;
